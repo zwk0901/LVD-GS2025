@@ -8,7 +8,7 @@
 
   <h3 align="center">Project page / Paper</h3>
   <p align="center">
-    Paper (arXiv): https://arxiv.org/abs/2401.12345<br>
+    Paper (arXiv): https://arxiv.org/abs/2510.22669<br>
     Repo: https://github.com/zwk0901/LVD_GS-SLAM
   </p>
 </p>
